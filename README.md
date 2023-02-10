@@ -1,1 +1,1 @@
-Ce dépôt répertorie l'ensemble des exercies en python que j'ai pu faire pour m'entrainer.
+Ce dépôt garde en mémoire tous mes exercices d'entrainement sur python
